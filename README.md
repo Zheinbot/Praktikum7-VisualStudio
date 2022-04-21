@@ -13,7 +13,7 @@ Nama Variabel yg diganti
 5. P = RB_P
 6. Pada bagian variabel Checkbox *Nama-nama penyakit diganti juga variabelnya
    checkbox1 = checkBoxMagg dan seterusnya....
-   Ingat Huruf depannya jadi Besar! checkBox2 = checkBoxDarahRendah dan seterusnya
+   Ingat Huruf depannya jadi Besar! checkBox2 = checkBoxDarahRendah dan seterusnya sesuai nama penyakitnya
    
  7. pada combobox tanggal lahir untuk diganti variabelnya juga
     comboxBoxTanggal
